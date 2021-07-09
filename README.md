@@ -1,7 +1,7 @@
 <h3>Live Site: https://abdullah-al-akash.github.io/cricket-fun/index.html</h3>
 
 <h2> Cricket Fun </h2>
-<h3>Hey! today I just practice some transition and transform today. I just wanted to do something like funny type. Thats
+<h3>Hey! I just practice some transition and transform today. I just wanted to do something like funny type. Thats
         why I create a funny movement use with css transition and transform.</h3>
 
 <p>I also share some screenshot of the funny thing what I have done</p>
